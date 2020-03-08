@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/lexffe/spotify-ts-api#readme",
   "devDependencies": {
-    "@types/node": "^13.7.6",
-    "typescript": "^3.8.2"
+    "@types/node": "^13.9.0",
+    "typescript": "^3.8.3"
   }
 }
